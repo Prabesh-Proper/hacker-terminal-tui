@@ -77,7 +77,7 @@ HackerTerminal is built defensively. If optional or OS-specific dependencies are
 
 1. **Clone the Repository** (or copy this folder):
    ```bash
-   git clone https://github.com/yourusername/hacker-terminal-tui.git
+   git clone https://github.com/Prabesh-Proper/hacker-terminal-tui.git
    cd hacker-terminal-tui
    ```
 
