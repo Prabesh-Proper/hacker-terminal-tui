@@ -1,0 +1,11 @@
+# ── Core ─────────────────────────────────────────────
+textual>=1.0.0
+rich>=13.0.0
+psutil>=5.9.0
+
+# ── Networking extras ────────────────────────────────
+scapy>=2.5.0              # WiFi device enumeration
+pyroute2>=0.7.0           # VPN tunnel detection (Linux)
+
+# ── Optional ─────────────────────────────────────────
+speedtest-cli>=2.1.3      # Bandwidth test (invoked manually)
